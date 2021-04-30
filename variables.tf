@@ -85,3 +85,7 @@ variable gitlab_projects {
 variable "azure_devops_projects" {
   default = {}
 }
+
+variable jenkins_jobs {
+  default = {}
+}

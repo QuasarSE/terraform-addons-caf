@@ -1,7 +1,7 @@
 gitlab_projects = {
 
-  test_project  = {
-    name        = "test_project_10"
+  test_project26  = {
+    name        = "test_project_26"
     description = "This is a test!"
     visibility  = "private"
 
@@ -27,10 +27,11 @@ gitlab_projects = {
     }
   }
 
-  demo_project  = {
-    name        = "demo_project_20"
+  demo_project25  = {
+    name        = "demo_project_25"
     description = "This is a demo!"
     visibility  = "private"
   }
+  
 
 }
